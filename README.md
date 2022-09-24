@@ -43,9 +43,57 @@ An application for ordering food.
 
 ## Screenshots
 
-<img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot1.jpeg" width="%10"></img> <img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot2.jpeg" width="%10"></img> <img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot3.jpeg" width="%10"></img> <img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot4.jpeg" width="%10"></img>
+<p align="center">
+  <table>
+  <tr>
+    <td>Splash Screen</td>
+    </tr>
+    <tr>
+    <img width="270" height="480" src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot1.jpeg">
+  </tr>
+    </table>
+</p>
 
-<img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot5.jpeg" width="%13"></img> <img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot6.jpeg" width="%13"></img> <img src="https://github.com/wazzapsenk/Flutter-FoodDelivery/blob/master/Screenshots/fooDelivery_Screenshot7.jpeg" width="%13"></img>
+<table>
+  <tr>
+    <td>Splash Screen</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/fooDelivery_Screenshot1.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td>Register Screen</td>
+     <td>Login Screen</td>
+     <td>Foods Screen</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/fooDelivery_Screenshot2.jpeg" width=270 height=480></td>
+    <td><img src="Screenshots/fooDelivery_Screenshot3.jpeg" width=270 height=480></td>
+    <td><img src="Screenshots/fooDelivery_Screenshot4.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+ 
+<table>
+  <tr>
+    <td>Foods Screen</td>
+     <td>Basket Screen</td>
+     <td>Order Message</td>
+  </tr>
+  <tr>
+    <td><img src="Screenshots/fooDelivery_Screenshot5.jpeg" width=270 height=480></td>
+    <td><img src="Screenshots/fooDelivery_Screenshot6.jpeg" width=270 height=480></td>
+    <td><img src="Screenshots/fooDelivery_Screenshot7.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
+
+
+
+
+
 
 ## Tutorial Video
 
