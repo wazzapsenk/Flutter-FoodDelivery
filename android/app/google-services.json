@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "354110744579",
+    "project_id": "wazzap-fooddelivery",
+    "storage_bucket": "wazzap-fooddelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354110744579:android:41e72d898318bb8cbc8636",
+        "android_client_info": {
+          "package_name": "com.wazang.deliveryfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354110744579-tnn3l8h1u8pe99eu7jdmmri9ke855rsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wazang.deliveryfood",
+            "certificate_hash": "caeeba7acee75e8b121517d6419f21a086311213"
+          }
+        },
+        {
+          "client_id": "354110744579-lb6knuahkmfip89nnf107v93f2u2nda2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB89OkIFQMNrMzt8hkyelJqiQ655zDlHIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354110744579-lb6knuahkmfip89nnf107v93f2u2nda2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
